@@ -1,0 +1,3 @@
+C:/Users/Islam/Desktop/Socket Program/Server/cmake-build-debug/CMakeFiles/Server.dir
+C:/Users/Islam/Desktop/Socket Program/Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Islam/Desktop/Socket Program/Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
